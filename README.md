@@ -219,3 +219,17 @@ El desarrollo de CodePairs planteó diversos desafíos que requerían soluciones
 ## Aprendizaje Continuo
 
 El proyecto no solo fue un hito en términos de desarrollo, sino también un punto de partida para un aprendizaje continuo. La investigación y comprensión de las herramientas utilizadas, así como la adaptación a nuevos problemas durante el desarrollo, destacaron la importancia de la adaptabilidad y la disposición para aprender en entornos de programación complejos.
+
+
+## Bibliografia
+
+binario_newbie. (27 de Marzo de 2018). stackoverflow. Obtenido de cronometro multihilo en python: https://es.stackoverflow.com/questions/150696/cronometro-multihilo-en-python
+CodeWizardsHQ, E. (26 de Agosto de 2022). codewizardshq. Obtenido de Guía para el desarrollo de juegos en Python: los mejores juegos y motores de Python y cómo codificar los tuyos propios: https://www.codewizardshq.com/python-games/
+Craven, P. V. (24 de Abril de 2018). opensource. Obtenido de How to create a 2D game with Python and the Arcade library: https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade
+Fincher, J. (Febrero de 2019). Real Phyton. Obtenido de Python Development in Visual Studio Code: https://realpython.com/python-development-visual-studio-code/
+Kenlon, S. (28 de Septiembre de 2020). opensource.com. Obtenido de Add sound to your Python game: https://opensource.com/article/20/9/add-sound-python-game
+tecnobillo. (01 de Agosto de 2021). tecnobillo. Obtenido de PythonNET - Creando un cronómetro con interfaz WinForms: https://tecnobillo.com/sections/python-en-windows/pythonnet/sections/cronometro-pythonnet/cronometro-pythonnet.html
+Thu. (25 de Marzo de 2010). Python Mania. Obtenido de Tutorial Pygame 2: creando una ventana, cargar imagenes y moverlas: https://www.pythonmania.net/es/2010/03/25/tutorial-pygame-2-ventana-e-imagenes/
+
+
+

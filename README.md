@@ -124,6 +124,7 @@ Durante el desarrollo de CodePairs, se implementaron diversas funcionalidades pa
 4. **Sistema de Puntaje Dinámico:**
    - El sistema de puntaje se actualiza en tiempo real a medida que los jugadores encuentran pares de cartas, ofreciendo una retroalimentación inmediata.
 
+![e39742a6-3e7c-4a8b-a723-9528c7c47b85](https://github.com/Luiss2080/ProyectoFinal/assets/149401326/a3f20301-01aa-4b9a-b361-bca91b4a1c12) ![7267b87b-d84a-4186-917a-d9ad04dc3cfe](https://github.com/Luiss2080/ProyectoFinal/assets/149401326/f62b51d5-0f4c-4e14-984a-14708629b630)
 
 
 ### Información del Juego
